@@ -21,19 +21,18 @@ The Jurassic Park/Jurassic World universe inspires me a lot, and I also love fan
 
 <div align="center">
 
-<!-- TEXTE ANIMÉ (ECRIT / EFFACE) EN VERT -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+Chick!!+%3E0%3C;The+dumbest+girl+you+ever+seen;Did+i+mention+i+like+Dinosaurs+%3F" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=7FBF00&center=true&vCenter=true&width=600&lines=Hello+Chick!!+%3E0%3C;The+dumbest+girl+you+ever+seen;Did+i+mention+i+like+Dinosaurs+%3F" />
 
 <br><br>
 
-<!-- DESCRIPTION -->
-<pre>
+<font color="#6A8F00">
 Loxia/Lox . She/her , Multifandom/ int + C+h , iwc , / dnc , Heterosexual. dni under 14.
-</pre>
+</font>
 
-<br>
+<br><br>
 
-<!-- IMAGE -->
-<img src="https://raw.githubusercontent.com/Hungry-Bean/Hungry-Bean/51e29815460e43dbfc0ddd54c971162ddf685f42/20260702_2026_07_02_23_54_42.mov" width="220" />
+<a href="https://github.com/Hungry-Bean/Hungry-Bean/blob/bb8728972aa1c1287eb5a85ec9d9abe8fce1daa4/20260702_2026_07_03_00_04_16.mov">
+Click here for media
+</a>
 
 </div>
