@@ -55,3 +55,5 @@ I’m also a bit sensitive when it comes to body shaming, so I’d appreciate it
 Please don’t try to force a friendship with me. I prefer getting to know people naturally, and if we click, we’ll probably become friends over time.
 
 Lastly, please respect me, my friends, and other artists. Don’t steal or repost artwork without permission.
+
+![](https://github.com/Hungry-Bean/Hungry-Bean/blob/cb1de12074111c7531cd70c52278f2979ca3bb3d/Sans%20titre%20368_20260702230837.jpeg)
