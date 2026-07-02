@@ -37,6 +37,7 @@ Loxia/Lox . She/her ,
 
 
 </div>
+
 <div align="center">
 
 <video width="220" controls autoplay loop muted>
