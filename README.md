@@ -18,3 +18,22 @@ The Jurassic Park/Jurassic World universe inspires me a lot, and I also love fan
 <div align="center">
   <img src="https://raw.githubusercontent.com/Hungry-Bean/Hungry-Bean/3afdf6f45b212a5fdf70b49eacb8909b40e709d1/CC8A6A09-D097-4FB3-B08C-2EA546F1B3B3.gif" width="90" alt="GIF">
 </div>
+
+<div align="center">
+
+<!-- TEXTE ANIMÉ (ECRIT / EFFACE) EN VERT -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+Chick!!+%3E0%3C;The+dumbest+girl+you+ever+seen;Did+i+mention+i+like+Dinosaurs+%3F" />
+
+<br><br>
+
+<!-- DESCRIPTION -->
+<pre>
+Loxia/Lox . She/her , Multifandom/ int + C+h , iwc , / dnc , Heterosexual. dni under 14.
+</pre>
+
+<br>
+
+<!-- IMAGE -->
+<img src="https://raw.githubusercontent.com/Hungry-Bean/Hungry-Bean/51e29815460e43dbfc0ddd54c971162ddf685f42/20260702_2026_07_02_23_54_42.mov" width="220" />
+
+</div>
