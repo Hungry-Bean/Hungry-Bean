@@ -40,3 +40,8 @@ Loxia/Lox . She/her ,
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Hungry-Bean/Hungry-Bean/406a8925db10de7de593157aca16536df9c1a644/20260702_2026_07_03_00_04_16.mov"
+width="180" />
+
+</div>
+
