@@ -26,7 +26,11 @@ The Jurassic Park/Jurassic World universe inspires me a lot, and I also love fan
 <br><br>
 
 <font color="#6A8F00">
-Loxia/Lox . She/her , Multifandom/ int + C+h , iwc , / dnc , Heterosexual. dni under 14.
+Loxia/Lox . She/her ,
+  Multifandom/ int + C+h , 
+  iwc , / dnc , 
+  Heterosexual. dni under 14.
+
 </font>
 
 <br><br>
