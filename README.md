@@ -31,8 +31,5 @@ Loxia/Lox . She/her , Multifandom/ int + C+h , iwc , / dnc , Heterosexual. dni u
 
 <br><br>
 
-<a href="https://github.com/Hungry-Bean/Hungry-Bean/blob/bb8728972aa1c1287eb5a85ec9d9abe8fce1daa4/20260702_2026_07_03_00_04_16.mov">
-Click here for media
-</a>
 
 </div>
