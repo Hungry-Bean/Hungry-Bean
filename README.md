@@ -37,3 +37,10 @@ Loxia/Lox . She/her ,
 
 
 </div>
+<div align="center">
+
+<video width="220" controls autoplay loop muted>
+  <source src="https://github.com/Hungry-Bean/Hungry-Bean/blob/20f4b39e6a8ffb584515a6fcbea35b7cd2552251/20260702_2026_07_03_00_04_16.mov?raw=true" type="video/quicktime">
+</video>
+
+</div>
