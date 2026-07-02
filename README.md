@@ -21,7 +21,7 @@ The Jurassic Park/Jurassic World universe inspires me a lot, and I also love fan
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=7FBF00&center=true&vCenter=true&width=600&lines=Hello+Chick!!+%3E0%3C;The+dumbest+girl+you+ever+seen;Did+i+mention+i+like+Dinosaurs+%3F" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=7FBF00&center=true&vCenter=true&width=600&lines=''Hello+Chick!!''+%3E0%3C;''The+dumbest+girl+you+ever+seen'';''Did+i+mention+i+like+Dinosaurs''+%3F" />
 
 <br><br>
 
