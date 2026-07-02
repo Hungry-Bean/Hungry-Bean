@@ -44,3 +44,14 @@ width="180" />
 
 </div>
 
+# Before interact. 
+
+Please just be respectful. I don’t want any drama, harassment, stalking, or discrimination around me.
+
+Please don’t interact if you support proshipping or any inappropriate content involving minors.
+
+I’m also a bit sensitive when it comes to body shaming, so I’d appreciate it if you kept comments about my appearance to yourself.
+
+Please don’t try to force a friendship with me. I prefer getting to know people naturally, and if we click, we’ll probably become friends over time.
+
+Lastly, please respect me, my friends, and other artists. Don’t steal or repost artwork without permission.
