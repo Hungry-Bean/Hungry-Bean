@@ -14,3 +14,7 @@ I draw in the UPA Revival style and love creating things that inspire me. My dre
 
 The Jurassic Park/Jurassic World universe inspires me a lot, and I also love fantasy creatures.
 ```
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hungry-Bean/Hungry-Bean/3afdf6f45b212a5fdf70b49eacb8909b40e709d1/CC8A6A09-D097-4FB3-B08C-2EA546F1B3B3.gif" width="90" alt="GIF">
+</div>
