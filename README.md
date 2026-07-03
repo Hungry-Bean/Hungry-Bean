@@ -10,7 +10,7 @@ Hi! I'm Loxia, a French artist who's currently learning English, so please be pa
 
 I'm a sociable person, especially around my friends, and I love doing C+H. I'm also a huge foodie.
 
-I draw in the UPA Revival style and love creating things that inspire me. My dream is to be recognized for my artwork someday.
+I draw in the UPA Revival style or Mccracken i dont know how it call. and love creating things that inspire me. My dream is to be recognized for my artwork someday.
 
 The Jurassic Park/Jurassic World universe inspires me a lot, and I also love fantasy creatures.
 ```
