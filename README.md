@@ -5,4 +5,5 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Hungry-Bean/Hungry-Bean/f2869ccc6a03c759c5cd387fd3b8c4a13f7e72d9/IMG_5222.jpeg" width="250">
+<img src="
+  https://github.com/Hungry-Bean/Hungry-Bean/blob/2a62de66616ef9fc58bb799f7912eb7001f757d8/IMG_5132.jpeg" width="250">
