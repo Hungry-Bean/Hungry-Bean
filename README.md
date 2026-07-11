@@ -60,3 +60,10 @@ Selective follow.
 </div>
 
 ![](https://github.com/Hungry-Bean/Hungry-Bean/blob/6ae899e892ba8c9197d776590306c505f30b28fb/IMG_5132.jpeg)
+
+<div align="center">
+
+<img src="https://blinkies.cafe/b/display/0002-mushroom.gif" width="60">
+<img src="https://blinkies.cafe/b/display/0046-leo.gif" width="60">
+
+<br>
