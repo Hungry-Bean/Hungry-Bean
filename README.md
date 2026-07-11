@@ -41,8 +41,7 @@
 
 **𝐋ⱺ𝗑𝗂α / ᥣⱺ𝗑**
 
-under 14 DNI • IWC
-
+IWC 
 Kyle and Eri ♡
 
 Multifandom
