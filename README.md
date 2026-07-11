@@ -7,11 +7,6 @@
 
 <br>
 
-<img src="https://github.com/Hungry-Bean/Hungry-Bean/blob/2a62de66616ef9fc58bb799f7912eb7001f757d8/IMG_5132.jpeg" width="250">
-
-<br>
-
---------
 <div align="center">
 
 <!-- Animation (remplace par un GIF si le .mov ne s'affiche pas) -->
