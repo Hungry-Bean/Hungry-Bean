@@ -14,6 +14,7 @@
 </div>
 <div align="center">
 
+
 <video width="260" autoplay loop muted playsinline>
   <source src="https://raw.githubusercontent.com/Hungry-Bean/Hungry-Bean/52b94246464a50afa121c0104d9ef0c2a4e37544/20260710_2026_07_10_22_27_49.mov" type="video/quicktime">
 </video>
