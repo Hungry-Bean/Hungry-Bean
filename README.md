@@ -1,6 +1,4 @@
 # ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
-
-
 <div align="center">
 
 <img src="https://blinkies.cafe/b/display/0002-mushroom.gif" width="60">
