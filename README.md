@@ -12,3 +12,10 @@
 <br>
 
 --------
+<div align="center">
+
+<video width="320" autoplay loop muted playsinline>
+  <source src="https://raw.githubusercontent.com/Hungry-Bean/Hungry-Bean/51c3b7dce53537656a0362f39fa376ecee3dd704/20260710_2026_07_10_22_27_49.mov" type="video/quicktime">
+</video>
+
+</div>
