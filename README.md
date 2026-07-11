@@ -1,4 +1,6 @@
 # ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+![](https://github.com/Hungry-Bean/Hungry-Bean/blob/b0e1a35c4181bf11296302cf70e59c61d30eb39c/4BEAEAAE-8AAB-4144-91CD-A00CA093E46D.gif)
+
 <div align="center">
 
 <img src="https://blinkies.cafe/b/display/0002-mushroom.gif" width="60">
