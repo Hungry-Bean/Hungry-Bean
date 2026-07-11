@@ -41,7 +41,7 @@
 
 **𝐋ⱺ𝗑𝗂α / ᥣⱺ𝗑**
 
-• IWC
+under 14 DNI • IWC
 
 Kyle and Eri ♡
 
