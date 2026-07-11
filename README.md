@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/Hungry-Bean/Hungry-Bean/4935f7c265c120e6fbca74bb4a61a5f0216a69b4/Sans%20titre%20378_20260711035351.jpeg" width="90">
 </a>
 
-<a href="https://youtube.com/@robloxia_diamant?si=IQPL-hEXi9nZ9GwU">
+<a href="https://www.youtube.com/@Loxia-Ytb">
   <img src="https://raw.githubusercontent.com/Hungry-Bean/Hungry-Bean/4935f7c265c120e6fbca74bb4a61a5f0216a69b4/Sans%20titre%20378_20260711035353.jpeg" width="90">
 </a>
 
