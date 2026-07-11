@@ -41,8 +41,8 @@
 
 **𝐋ⱺ𝗑𝗂α / ᥣⱺ𝗑**
 
-IWC 
-Kyle and Eri ♡
+Teen only • IWC •
+mostly with • Kyle and Eri ♡
 
 Multifandom
 
