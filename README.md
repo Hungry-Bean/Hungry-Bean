@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="TON_GIF_ICI.gif" width="280">
+ # <img src="TON_GIF_ICI.gif" width="280">
 
 <br>
 
