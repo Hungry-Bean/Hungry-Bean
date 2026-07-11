@@ -17,7 +17,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━
 
-### 🌿 About Me
+## ( ˶°ㅁ°) !!
 
 **𝐋ⱺ𝗑𝗂α / ᥣⱺ𝗑**
 
@@ -31,7 +31,7 @@ Theodore fictionkin
 
 ━━━━━━━━━━━━━━━━━━━━
 
-### 🍄 Before You Follow
+### ── ⟡ ˙𖾕𖾝꙼ᩚ𛲕𖾟
 
 Don't add randomly.
 
