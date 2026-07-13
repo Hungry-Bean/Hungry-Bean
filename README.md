@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hungry-Bean/Hungry-Bean/e4b30c0a0e47fdd71666008a82d3f44ece5cccb7/D7DAE672-40C7-4E6D-B62B-2141B266B70A.gif" width="90">
+</p>
 <div align="center">
 
 <img src="https://blinkies.cafe/b/display/0002-mushroom.gif" width="60">
