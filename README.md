@@ -37,33 +37,6 @@
 
 </div>
 
-## ( ˶°ㅁ°) !!
-
-**𝐋ⱺ𝗑𝗂α / ᥣⱺ𝗑**
-
-Teen only • IWC •
-mostly with • Kyle and Eri ♡
-
-Multifandom
-
-Theodore fictionkin
-
-<p align="center">
-  <a href="https://www.roblox.com/share?code=b4b6ada6b0807b41842a1f0636557e57&type=Profile&source=ProfileShare&stamp=1783764590354">
-    <img src="https://raw.githubusercontent.com/Hungry-Bean/Hungry-Bean/4346e609571bba8661e94a7bf22dc67ec77289e2/Sans%20titre%20378_20260711105430.jpeg" width="110">
-  </a>
-</p>
-━━━━━━━━━━━━━━━━━━━━
-
-### ── ⟡ ˙𖾕𖾝꙼ᩚ𛲕𖾟
-
-Don't add randomly.
-
-Selective follow.
-
-</div>
-
-![](https://github.com/Hungry-Bean/Hungry-Bean/blob/6ae899e892ba8c9197d776590306c505f30b28fb/IMG_5132.jpeg)
 
 <div align="center">
 
