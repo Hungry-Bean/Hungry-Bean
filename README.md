@@ -19,7 +19,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hungry-Bean/Hungry-Bean/26a859be06c7d5e865d1c64b877c24ffdc6a8345/60083F1B-7A18-48FE-9481-95E46E85BE91.gif" width="90">
 </p>
-━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hungry-Bean/Hungry-Bean/eb956f8b2665389138716ecaf7c989c7c806a59f/IMG_5328.jpeg" width="250">
+</p>
 <div align="center">
 
 <a href="https://loxiamushroom.straw.page">
