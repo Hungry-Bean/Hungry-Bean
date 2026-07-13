@@ -9,7 +9,7 @@
   <img src="TON_GIF_ICI.gif" width="280">
 
 <br>
-<img src="https://raw.githubusercontent.com/Hungry-Bean/Hungry-Bean/main/Sans%20titre%20339_20260710221143.png" width="360">
+<img src="https://github.com/Hungry-Bean/Hungry-Bean/blob/cb94e8e2fec1cd98090ded53b6ab0a133afae2e0/Nom%20du%20projet%209.mov" width="360">
 <br>
 <div align="center">
 
