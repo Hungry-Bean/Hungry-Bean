@@ -16,6 +16,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&weight=700&size=28&duration=3500&pause=1200&color=2F6B3D&center=true&vCenter=true&width=700&lines=%F0%9D%95%AF%E1%A5%B1%E1%A5%B2r+%F0%9D%95%AF%D1%96%E1%A5%B2r%E1%A5%A1!;%F0%9D%90%87%F0%9D%96%BE%E1%A5%A3%E1%A5%A3%E2%B1%BA+%F0%9D%90%82%C9%A6%F0%9D%97%82ck!1!+%28%E0%B9%91%E1%B5%94%E2%A4%99%E1%B5%94%E0%B9%91%29;%F0%9D%95%B4m+s%E1%A5%86+%D2%BB%E1%A5%99%E1%A5%92gr%E1%A5%A1%E1%A5%A1%E1%A5%A1%E1%A5%A1">
 
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hungry-Bean/Hungry-Bean/26a859be06c7d5e865d1c64b877c24ffdc6a8345/60083F1B-7A18-48FE-9481-95E46E85BE91.gif" width="90">
+</p>
 ━━━━━━━━━━━━━━━━━━━━
 <div align="center">
 
