@@ -37,8 +37,11 @@
 
 </div>
 
-.
-
+<p align="center">
+  <a href="https://www.roblox.com/share?code=b4b6ada6b0807b41842a1f0636557e57&type=Profile&source=ProfileShare&stamp=1783926540420">
+    ✦ 𝕽𝖔𝖇𝖑𝖔𝖝 ✦
+  </a>
+</p>
 
 <div align="center">
 
