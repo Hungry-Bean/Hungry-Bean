@@ -26,7 +26,7 @@
 </p>
 <div align="center">
 
-<a href="https://loxiamushroom.straw.page">
+<a href="https://loxiatime.straw.page">
   <img src="https://raw.githubusercontent.com/Hungry-Bean/Hungry-Bean/4935f7c265c120e6fbca74bb4a61a5f0216a69b4/Sans%20titre%20378_20260711035358.jpeg" width="90">
 </a>
 
